@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Godslovet
+- 👋 Hi, We are  Vipe known as Vipe tech 
 - 👀 I’m interested in PHP and react.js
-- 🌱 I’m currently learning react and PHP 
+- 🌱 I’m currently coding open source code
 - 💞️ I’m looking to collaborate on PHP base projects
-- 📫 How to reach me at my email godslovetjohnson@gmail.com
+- 📫 How to reach me at my email admin@vipe.name.ng.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
